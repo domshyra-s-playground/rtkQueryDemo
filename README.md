@@ -24,6 +24,7 @@ run the following commands to add secrets.
 
 `dotnet user-secrets set "Spotify:ClientSecret" "SpotifyClientSecret"`
 
+inorder to use the rating features on play list run `dotnet ef database update`
 
 
 
